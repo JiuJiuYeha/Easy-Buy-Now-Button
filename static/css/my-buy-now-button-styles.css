@@ -1,0 +1,5 @@
+.buy_now_button{
+    flex: 0 0 auto !important;
+    /*background-color: var(--buttonInitialColor) !important;*/
+    background-color: var(--paletteColor1) !important;
+}
